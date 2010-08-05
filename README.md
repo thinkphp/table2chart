@@ -37,11 +37,15 @@ Add the script to the end of the body:
          new Table2Chart(); 
        </script>
 
-      OR
+      OR  wait until dom is ready
 
+      #JS 
+      <script type="text/javascript">
       window.addEvent('domready',function(){
          new Table2Chart();   
       });  
+      </script>
+
 
 Dependencies
 
