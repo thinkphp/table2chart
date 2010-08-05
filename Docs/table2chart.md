@@ -25,3 +25,7 @@ Table2Chart Method: constructor {#Table2Chart: constructor}
 * hiddenClass - (*string*) specifies the name of class for converted table - default 'hidden'. 
 * chartColor - (*hexdata*) a hex value without '#' - default '339933'.
 * chartSize - (*IntegerxInteger*)  defines size chart (width X height) default '500x400'.  
+
+### Returns:
+
+a Table2Chart instance.
