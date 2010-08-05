@@ -1,7 +1,7 @@
-name:  table2chart
-author:  Adrian Statescu
-current:  
-category:  
-tags:  []
-docs:  
+name: table2chart
+author: thinkphp 
+current: v1.0  
+category: utilities 
+tags: [google,chart,table,api,interface,table2chart,accessible]
+docs: http://thinkphp.ro/apps/google/Google%20Chart%20API/mootools/MooTools%201.2.4/
 demo:  

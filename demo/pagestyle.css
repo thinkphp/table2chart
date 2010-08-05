@@ -1,0 +1,8 @@
+html,body {background: #ccc;font-family: arial,verdana} 
+#doc {background: #fff;border: 1em solid #fff;border-radius:10px;-moz-border-radius:10px;-webkit-border-radius: 10px;-moz-box-shadow: 4px 4px 4px rgba(33, 33, 33, 0.4);}
+h2{font-family:calibri,sans-serif;color:#060;font-size:140%;padding:1em 0 .5em 0;font-weight:bold;color: #111}
+h3{font-family:calibri,sans-serif;color:#000;font-size:110%;padding:0;margin:.5em 0;font-weight:bold;}
+h1{font-family:calibri,sans-serif;color:#111;font-size:200%;padding:1em 0 .5em 0;font-weight:bold;}
+#ft{font-size:80%;color:#888;text-align:left;margin:2em 0;font-size: 12px}
+#ft p a{color:#93C37D;}
+
