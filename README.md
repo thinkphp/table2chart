@@ -1,8 +1,9 @@
 table2chart
 =======================
-This is a plugin MooTools that generates charts from accessible data table. So, you can take a simple, valid and accessible data table
+This is a plugin MooTools that generates charts from accessible data tables. So, you can take a simple, valid and accessible data table
 and it gets automatically converted to a pie chart. Simply add the script to the end of the body and it'll converts all the table
-with a class called 'toChart'. You can define the size and the colour within the attribute class of the table.
+with a class called 'toChart'. 
+You can define the size and the colour within the attribute class of the table (like: class="toChart size700x300 color29b34f").
 
 ![Screenshot](http://farm5.static.flickr.com/4093/4863355714_95a08a2074_z.jpg)
 
