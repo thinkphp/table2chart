@@ -16,11 +16,6 @@ First you must to include the JS files in the head of your HTML document.
        <script type="text/javascript" src="table2chart.js"></script>
 
 
-       #JS 
-       <script type="text/javascript">
-         new Table2Chart(); 
-       </script>
-
 In your HTML source: 
        <table class="toChart size700x300 color29b34f" summary="Browsers for this site, 29 May 2010">
          <thead><tr><th>Browser</th><th>Percent</th></tr></thead>
@@ -32,6 +27,14 @@ In your HTML source:
            <tr><td>Safari</td><td>90</td></tr>
         </tbody>
       </table>
+
+
+Add the script to the end of the body:
+
+       #JS 
+       <script type="text/javascript">
+         new Table2Chart(); 
+       </script>
 
 
 Dependencies
