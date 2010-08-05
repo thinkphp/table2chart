@@ -3,5 +3,5 @@ author: thinkphp
 current: v1.0  
 category: utilities 
 tags: [google,chart,table,api,interface,table2chart,accessible]
-docs: http://thinkphp.ro/apps/google/Google%20Chart%20API/mootools/MooTools%201.2.4/
-demo:  
+docs: http://github.com/thinkphp/table2chart/blob/master/Docs/table2chart.md
+demo: http://thinkphp.ro/apps/google/Google%20Chart%20API/mootools/MooTools%201.2.4/ 

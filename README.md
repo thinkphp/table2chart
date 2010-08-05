@@ -37,6 +37,11 @@ Add the script to the end of the body:
          new Table2Chart(); 
        </script>
 
+      OR
+
+      window.addEvent('domready',function(){
+         new Table2Chart();   
+      });  
 
 Dependencies
 
