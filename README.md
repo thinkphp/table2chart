@@ -37,7 +37,7 @@ Add the script to the end of the body:
          new Table2Chart(); 
        </script>
 
-      OR  wait until dom is ready
+OR  wait until dom is ready
 
       #JS 
       <script type="text/javascript">
