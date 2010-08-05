@@ -54,7 +54,7 @@ var Table2Chart = new Class({
                     chartsrc += data.join(",") + '&chl=' + labels.join("|");  
                 var alt = t.get('summary');   
                     t.addClass(this.options.hiddenClass);
-                    new Element('img',{src: chartsrc, alt: alt}).inject(t,'before');
+                    new Element('img',{src: chartsrc, alt: alt, 'class': this.options.chartClass}).inject(t,'before');
              }    
          }//end for
     },
