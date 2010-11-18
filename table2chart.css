@@ -1,0 +1,17 @@
+.hidden{
+  position:absolute;
+  top:0;
+  left:-9999px;
+}
+table{
+  border-collapse:collapse;
+  border:1px solid #999;
+  width:400px;
+}
+th,td{
+  padding:5px;
+  border:1px solid #999;
+}
+th{
+  background:#eee;
+}
