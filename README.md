@@ -49,4 +49,4 @@ OR  wait until dom is ready
 
 Dependencies
 
-      MooTools Core 1.2.4
+      MooTools Core 1.3
